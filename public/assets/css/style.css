@@ -1,0 +1,14 @@
+@import "bootstrap.min.css";
+
+/* custom style */
+
+.row-bottom-20 {
+	margin-top: 20px;
+}
+
+.logo-image {
+	width: auto;
+	height: 200%;
+	position: relative;
+	top: -10px;
+}
